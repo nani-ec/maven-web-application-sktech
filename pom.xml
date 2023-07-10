@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		
-		<sonar.host.url>http://43.204.144.108:9000</sonar.host.url>
+		<sonar.host.url>http://3.110.41.136:9000</sonar.host.url>
 		<sonar.login>61db143c26db69145a319cd4751ec43ced043b92</sonar.login>
 		<!-- <sonar.password>admin</sonar.password> -->
 		
